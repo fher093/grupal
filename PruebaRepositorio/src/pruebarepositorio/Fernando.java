@@ -9,10 +9,8 @@ package pruebarepositorio;
  * @author usuario
  */
 public class Fernando {
-    // hola soy fernando
+    // hola soy fer 
     //Agrega linea monse
     // hola soy fer  
-    //hola nuevo comentario 
-    
-    //linea para borrar con reverse 
-} 
+    //hola nuevo comentario
+}

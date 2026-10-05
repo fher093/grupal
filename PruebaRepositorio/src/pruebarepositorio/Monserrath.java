@@ -11,5 +11,4 @@ package pruebarepositorio;
 public class Monserrath {
     
     //nueva clase
-    //comentario antes del revert
 }

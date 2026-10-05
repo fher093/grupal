@@ -8,11 +8,6 @@ package pruebarepositorio;
  * Encontrá más código en mi repo de GitHub: https://github.com/CharlyCimino
  */
 public class Estiven {
-    // hOLA SOY ESTIVEN 
-    
-        public double suma(int a, int b){
-        double suma = a +b; 
-        return suma;
-    }
+    // hOLA SOY ESTIVEN
 
 }

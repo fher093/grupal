@@ -9,5 +9,10 @@ package pruebarepositorio;
  * @author Jean
  */
 public class Jeampierre {
+    //metodo suma fernando 
     
+    public double suma(int a, int b){
+        double suma = a +b; 
+        return suma;
+    }
 }

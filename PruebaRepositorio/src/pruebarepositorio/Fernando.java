@@ -15,5 +15,12 @@ public class Fernando {
     //hola nuevo comentario
     //Jeannn 
     
-    //hola nuevo comentario 
+    //hola nuevo comentario  
+    
+    //suma  
+    
+    public double suma(int a, int b){
+        double suma = a+b; 
+        return suma;
+    }
 }

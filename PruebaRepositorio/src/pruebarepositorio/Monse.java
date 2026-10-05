@@ -9,6 +9,5 @@ package pruebarepositorio;
  * @author Usuario
  */
 public class Monse {
-    //BORRAR ESTE COMENTARIO REVERT
     
 }

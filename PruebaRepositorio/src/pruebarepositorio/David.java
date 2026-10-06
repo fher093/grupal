@@ -6,13 +6,9 @@ package pruebarepositorio;
 
 /**
  *
- * @author Jean
+ * @author david
  */
-public class Jeampierre {
-    //metodo suma fernando 
-    
-    public double suma(int a, int b){
-        double suma = a +b; 
-        return suma;
-    }
+public class David {
+    //Segundo comentario despues del revert David
+    //David Israel Rodriguez Jimenez
 }

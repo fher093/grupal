@@ -17,4 +17,8 @@ public class Mateo {
     public void hello(){
         //hola
     }
+    
+    public void jeampy(){
+        //jeampy
+    }
 }

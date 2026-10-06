@@ -12,5 +12,9 @@ public class Mateo {
     // comment
     public void joder() {
         // xd
+    } 
+    
+    public void hello(){
+        //hola
     }
 }

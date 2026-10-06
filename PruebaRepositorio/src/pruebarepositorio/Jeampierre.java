@@ -14,5 +14,7 @@ public class Jeampierre {
     public double suma(int a, int b){
         double suma = a +b; 
         return suma;
-    }
+    } 
+    
+    //primer commit 
 }
